@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUi_AnimationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProgressBarSplashScreenView()
         }
     }
 }
